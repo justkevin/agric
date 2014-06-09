@@ -81,15 +81,15 @@ header {height:169px}
 .address li {line-height:27px;padding-left:23px;background:url(../images/marker_1.png) 0 6px no-repeat;overflow:hidden}
 .address a {color:#62a80a;text-decoration:none} 
 .address a:hover {text-decoration:underline}
-pre{font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#a09d99;line-height:27px}
+pre{font:14px "Trebuchet MS", Arial, Helvetica, sans-serif, FontAwesome;color:#a09d99;line-height:27px}
 /* footer */
 footer {padding:0 0 40px 23px}
 footer a{}
 footer a:hover{}
 #icons li {line-height:1.9em}
 #icons a {color:#a09d99;text-decoration:none}
-#icons a span {display:inline-block;vertical-align:top;cursor:pointer}
-#icons a:hover {color:#fff}
+#icons a span {display:inline-block;vertical-align:top;cursor:pointer }
+#icons a:hover {color:#fff,font-family: fontawesome, sans-serif;}
 #icons img {margin:5px 10px 0 0}
 #why_us{}
 #why_us li {line-height:27px}
