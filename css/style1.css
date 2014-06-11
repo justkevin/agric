@@ -254,14 +254,9 @@ p.change_link{
 	rgb(225, 234, 235) 30px, 
 	rgb(247, 247, 247) 30px
 	);
-	background: repeating-linear-gradient(-45deg, 
-	rgb(247, 247, 247) , 
-	rgb(247, 247, 247) 15px, 
-	rgb(225, 234, 235) 15px, 
-	rgb(225, 234, 235) 30px, 
-	rgb(247, 247, 247) 30px
-	);
+		background: repeating-linear-gradient(-45deg,    rgb(109, 233, 173) ,    rgb(186, 245, 193) 15px,    rgb(225, 235, 228) 15px,    rgb(102, 233, 112) 30px,    rgb(247, 247, 247) 30px   );
 }
+
 #wrapper p.change_link a {
 	display: inline-block;
 	font-weight: bold;
