@@ -4,7 +4,8 @@ mark, rp, rt, ruby, summary, time {display:inline }
 /* Left & Right alignment */
 .left {float:left}
 .right {float:right}
-.wrapper {width:100%;overflow:hidden}
+.wrapper {width:960px;overflow:hidden}
+
 /* Global properties */
 body {background:#000;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#a09d99;line-height:22px}
 .ic, .ic a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
@@ -23,7 +24,7 @@ h3 {font-size:25px;color:#fff;font-weight:normal;line-height:1.2em;padding:34px 
 p {padding-bottom:22px}
 /* header */
 header {height:169px}
-#logo {display:block;background:url(../images/logo.png) 0 0 no-repeat;width:298px;height:79px;text-indent:-9999px}
+#logo {background:url(../images/cgiar.png)no-repeat;width:1500px;height:150px;background-color:#7ab800;position: relative;}
 #menu {float:right;padding:71px 16px 0 0}
 #menu li {float:left;padding-left:1px}
 #menu li a {display:block;font-size:19px;color:#130c04;text-decoration:none;line-height:42px;height:43px;padding:0 19px;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;position:relative;background:url(../images/spacer.gif) repeat}

@@ -7,6 +7,7 @@
 /* index.html */
 #page1 .body1 {background: url(../images/bg_top.gif) top repeat-x #0e0b06}
 #page1 header {height:614px}
+#page1 menu-header {font-color:green;}
 /* index-1.html */
 #page2 .dropcap1 {font-size:39px;line-height:1.2em}
 #page2 .dropcap1 span {margin-top:3px}
