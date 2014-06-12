@@ -57,7 +57,7 @@ foreach ($aItems as $i => $aItemInfo) {
 						<li class="active"><a href="index.html">Home</a></li>
 						<li><a href="Research Works.html">Research Works</a></li>
 						<li><a href="Information.html">Information</a></li>
-						<li><a href="products.php">Products</a></li>
+						<li class="active"><a href="products.php">Products</a></li>
 						<li><a href="Contact.html">Contact</a></li>
 						<li><a href="login.html">Login</a></li>
 					</ul>
