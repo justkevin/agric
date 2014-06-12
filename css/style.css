@@ -92,19 +92,21 @@ footer a:hover{}
 #icons a span {display:inline-block;vertical-align:top;cursor:pointer }
 #icons a:hover {color:#fff,font-family: fontawesome, sans-serif;}
 #icons img {margin:5px 10px 0 0}
-#why_us{}
+.sidebar .one-quarter{width: 24.7%;float: left; clear:right; display: inline;margin-left: 8px;margin-right: 8px;}
+/*#why_us{}
 #why_us li {line-height:27px}
 #why_us a {color:#a09d99;text-decoration:none;padding-left:23px;background:url(../images/marker_3.png) 0 2px no-repeat}
 #why_us a:hover {color:#fff}
-#footer_link {margin-top:17px;border-top:1px solid #1a1a1a;padding-top:19px}
-/* forms */
-#ContactForm {padding-top:2px}
+#footer_link {margin-top:17px;border-top:1px solid #1a1a1a;padding-top:19px}*/
+/*/* forms */
+/*#ContactForm {padding-top:2px}
 #ContactForm span {float:left;width:111px;line-height:24px}
 #ContactForm .bg {border:1px solid #fff;background:url(../images/bg_input.gif) top repeat-x #e7e7e7;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;float:left;height:20px;overflow:hidden}
 #ContactForm .bg2 {border:1px solid #fff;background:url(../images/bg_textarea.gif) top repeat-x #e7e7e7;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;float:left;height:98px;overflow:hidden}
-#ContactForm .wrapper {min-height:27px}
-#ContactForm .textarea_box {height:105px;width:100%;overflow:hidden}
+#ContactForm .wrapper {min-height:27px}*/
+/*#ContactForm .textarea_box {height:105px;width:100%;overflow:hidden}
 #ContactForm a {float:right;width:94px;height:43px;font-size:18px;color:#fff;text-decoration:none;line-height:42px;text-align:center;background:url(../images/button_bg.gif) top repeat-x #327d05;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;position:relative}
 #ContactForm a:hover {background:#8dcf0f}
 #ContactForm .input {width:307px;height:18px;background:none;padding:0 5px;color:#6b6051;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;margin:0}
 #ContactForm textarea {overflow:auto;width:307px;height:98px;background:none;padding:0 5px;color:#6b6051;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;margin:0}
+*/*/
