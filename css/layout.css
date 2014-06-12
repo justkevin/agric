@@ -6,7 +6,11 @@
 .col4 {width:195px}
 /* index.html */
 #page1 .body1 {background: url(../images/bg_top.gif) top repeat-x #0e0b06}
+<<<<<<< HEAD
 #page1 header {height:23px}
+=======
+#page1 header {height: 10px}
+>>>>>>> c41dbdc344785d0bc342ece786c67c510deda0f5
 #page1 menu-header {font-color:green;}
 /* index-1.html */
 #page2 .dropcap1 {font-size:39px;line-height:1.2em}
@@ -30,4 +34,12 @@
 #page5 header {height:43px}
 #page5 #content2 {padding-bottom:22px;padding-top:12px;background-color:#F0FFF0}
 #page5 .cols {width:600px}
+<<<<<<< HEAD
 #page5 .marg_right1 {margin-right:5px}
+=======
+#page5 .marg_right1 {margin-right:30px}
+/* index-5 */
+#page6 .body1 {background: url(../images/bg_top.gif) top repeat-x #0e0b06}
+#page6 header {height: 10px}
+#page6 menu-header {font-color:green;}
+>>>>>>> c41dbdc344785d0bc342ece786c67c510deda0f5
