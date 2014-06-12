@@ -216,6 +216,11 @@ p.signin.button{
 .keeplogin label{
 	width: 80%;
 }
+/* styling the form control "category"*/
+.category{
+	font-size: 20px;
+}
+
 
 
 /*styling the links to change from one form to another */
@@ -310,7 +315,9 @@ background: rgb(200, 235, 193);
 	z-index: 22;
 }
 #toregister:target ~ #wrapper #register,
-#tologin:target ~ #wrapper #login{
+#tologin:target ~ #wrapper #login
+
+{
 	z-index: 22;
 	-webkit-animation-name: fadeInLeft;
 	-moz-animation-name: fadeInLeft;
@@ -324,7 +331,8 @@ background: rgb(200, 235, 193);
 	animation-delay: .1s;
 }
 #toregister:target ~ #wrapper #login,
-#tologin:target ~ #wrapper #register{
+#tologin:target ~ #wrapper #register
+{
 	-webkit-animation-name: fadeOutLeft;
 	-moz-animation-name: fadeOutLeft;
 	-ms-animation-name: fadeOutLeft;
@@ -354,6 +362,7 @@ background: rgb(200, 235, 193);
 	animation-timing-function: ease;
 	animation-fill-mode: both;
 }
+
 
 /** yerk some ugly IE fixes 'cause I know someone will ask "why does it look ugly in IE?", no matter how many warnings I will put in the article */
 
