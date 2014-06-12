@@ -3,7 +3,18 @@
 .cols {width:210px}
 .col2 {width:440px}
 .col3 {width:430px}
-.col4 {width:195px}
+.col44 ul li{
+	width:195px;
+	display:inline;
+	}
+
+
+
+	/* social icons */
+	.social-icons li{
+		display: inline;
+		float:left;
+	}
 /* index.html */
 #page1 .body1 {background: url(../images/bg_top.gif) top repeat-x #0e0b06}
 <<<<<<< HEAD
