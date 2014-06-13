@@ -23,14 +23,14 @@ h2 span {display:block;margin-top:-7px}
 h3 {font-size:25px;color:#fff;font-weight:normal;line-height:1.2em;padding:34px 0 8px 0;letter-spacing:-1px}
 p {padding-bottom:22px}
 /* header */
-header {height:169px}
+header {height:30px}
 #logo {background:url(../images/cgiar.png)no-repeat;width:1500px;height:180px;background-color:#7ab800;position: relative;}
 #menu {float: left;padding: 141px 281px 0 0;}
 #menu li {float:left;padding-left:1px}
 #menu li a {display:block;font-size:19px;text-decoration:none;line-height:42px;height:43px;padding:0 19px;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;position:relative;background:url(../images/spacer.gif) repeat}
 #menu li a:hover, #menu .active a {background:url(../images/menu_bg.gif) bottom repeat-x #364B4E;color:#fff}
 #menu li a:hover, #menu .active a {background/*\**/:url(../images/menu_bg.gif) top repeat-x #337f05\9}
-.slider_bg {width:100%;height:327px;background:url(../images/slider_bg.png) 0 0 no-repeat;position:relative;margin-top:17px;overflow:hidden;}
+.slider_bg {width:100%;height:483px;background:url(../images/slider_bg.png) 0 0 no-repeat;position:relative;margin-top:17px}
 .slider {top:8px;left:8px;position:absolute;z-index:1}
 .slider .items {display:none}
 .slider .pagination {position:absolute;z-index:2;bottom:23px;left:430px}
@@ -39,7 +39,7 @@ header {height:169px}
 .slider .pagination a {display:block;width:30px;height:30px;text-indent:-9999px;background:url(../images/buttons.png) right 0 no-repeat}
 .slider .pagination a:hover, .slider .pagination .current a {background-position:left}
 /* content */
-#content {padding:0 0 34px 23px}
+#content {padding:0 0 34px 23px,}
 #content2 {padding:3px 0 15px 23px}
 .pad_left1 {padding-left:35px}
 .pad_left2 {padding-left:50px}
